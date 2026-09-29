@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Creado por lucas 
+=======
+Error hecho Tomas
+>>>>>>> fbd4c3b0d69a02b4a1cc2e543f9dba194f72378b
